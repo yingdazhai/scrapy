@@ -1,0 +1,181 @@
+name,country,position,age,overall_rating,potential,club,value,wage,total_stats,hits
+ J. Stephens,England,CB,26,75,79,Southampton,€7M,€42K,1778,1.2K
+ J. Sancho,England,"RM,CF,CAM",20,86,92,Borussia Dortmund,€105.5M,€76K,1999,1.2K
+ D. Núñez,Uruguay,ST,21,75,87,SL Benfica,€14M,€11K,1850,1.1K
+ P. Højbjerg,Denmark,"CDM,CM",24,82,86,Tottenham Hotspur,€40M,€85K,2091,859
+ M. Almirón,Paraguay,"CAM,RM,LW",26,78,79,Newcastle United,€16.5M,€43K,2000,819
+ João Félix,Portugal,"CF,ST",20,83,93,Atlético Madrid,€80.5M,€61K,2075,801
+ Diogo Jota,Portugal,"LW,ST,CF",23,81,87,Liverpool,€40.5M,€95K,2104,749
+ J. Carrascal,Colombia,CAM,22,73,84,River Plate,€7M,€12K,1863,723
+ J. Grealish,England,"LW,CAM,CM",24,82,85,Aston Villa,€41.5M,€75K,1984,704
+ F. Wirtz,Germany,"CAM,RM",17,73,87,Bayer 04 Leverkusen,€7M,€6K,1805,653
+ N. Madueke,England,"RM,ST",18,72,86,PSV,€5.5M,€5K,1792,612
+ S. Takahashi,Japan,RB,30,65,65,Kashiwa Reysol,€625K,€3K,1622,605
+ R. James,England,"RB,CDM",20,78,86,Chelsea,€29.5M,€53K,2035,585
+ ,England,"ST,CF",28,60,60,Oxford United,€170K,€750,1568,528
+ W. Fofana,France,CB,19,74,85,Leicester City,€8.5M,€28K,1703,519
+ M. Simakan,France,"CB,RB",20,73,83,RC Strasbourg Alsace,€6M,€15K,1714,517
+ P. De la Vega,Argentina,"N/A,RM,RW,LW,RM",19,73,87,Club Atlético Lanús,€7M,€10K,1865,464
+ K. Havertz,Germany,"CAM,RM,CM",21,84,92,Chelsea,€94.5M,€95K,2052,443
+ G. Montiel,Argentina,"RB,RWB",23,78,85,River Plate,€27M,€15K,1991,415
+ Rúben Dias,Portugal,CB,23,82,87,Manchester City,€41.5M,€110K,1777,413
+ T. Hernández,France,LB,22,81,86,Milan,€37M,€39K,2085,408
+ Manolo Reina,Spain,GK,35,71,71,RCD Mallorca,€210K,€3K,1227,405
+ T. Ndombele,France,"CM,CAM,CDM,CM,CAM,CDM,CAM,CM,CDM",23,81,88,Tottenham Hotspur,€51.5M,€88K,2110,392
+ R. Gravenberch,Netherlands,"CM,CDM",18,75,89,Ajax,€13M,€6K,2016,379
+ Iniesta,Spain,"CM,CAM",36,81,81,Vissel Kobe,€8M,€12K,2014,377
+ G. Donnarumma,Italy,GK,21,86,92,Milan,€88.5M,€37K,1361,372
+ R. Cherki,France,"RW,LW,CAM",16,69,88,Olympique Lyonnais,€3.5M,€6K,1623,360
+ Y. Demir,Austria,"CAM,RW",17,66,87,SK Rapid Wien,€2.7M,€1K,1629,349
+ B. Saka,England,"LWB,LB",18,76,88,Arsenal,€16.5M,€17K,1954,342
+ E. Camavinga,France,CM,17,78,89,Stade Rennais FC,€29M,€6K,2086,339
+ C. Riad,Morocco,CB,17,59,84,CE Sabadell FC,€675K,€750,1392,333
+ A. Hložek,Czech Republic,"ST,LM,RM",17,74,87,Sparta Praha,€9.5M,€500,1883,331
+ Pedri,Spain,"LM,CAM,CM",17,73,89,FC Barcelona,€7.5M,€12K,1816,328
+ E. Smith Rowe,England,"CAM,RW",19,69,85,Arsenal,€3.6M,€18K,1651,325
+ T. Almada,Argentina,"CAM,CM,LW",19,75,89,Vélez Sarsfield,€13.5M,€10K,2015,320
+ Brahim,Spain,"LW,LM,RW,RM,LM,RM",20,74,86,Milan,€10M,€71K,1719,318
+ E. Buendía,Argentina,RM,23,77,83,Norwich City,€16.5M,€12K,2016,311
+ N. De la Cruz,Uruguay,"CM,CAM,LW",23,78,85,River Plate,€28M,€17K,2180,309
+ H. Son,Korea Republic,"LM,CF,LW",27,88,88,Tottenham Hotspur,€97.5M,€200K,2129,307
+ B. Leno,Germany,GK,28,84,85,Arsenal,€33.5M,€95K,1367,305
+ R. De Paul,Argentina,"CM,CF",26,79,81,Udinese,€21.5M,€22K,2055,305
+ M. Azeez,England,CM,17,60,77,Arsenal,€600K,€1K,1595,304
+ W. Saliba,France,CB,19,74,87,Arsenal,€9.5M,€28K,1719,296
+ Y. Carrasco,Belgium,LM,26,83,83,Atlético Madrid,€39.5M,€74K,2049,296
+ Vinícius Jr.,Brazil,LW,19,80,91,Real Madrid,€45.5M,€95K,1916,288
+ M. Greenwood,England,"RM,ST",18,77,89,Manchester United,€24.5M,€33K,1922,280
+ R. Borré,Colombia,ST,24,78,83,River Plate,€21.5M,€19K,2082,280
+ Matheus Cunha,Brazil,"CAM,ST,LM",21,80,87,Hertha BSC,€43M,€40K,1989,272
+ J. Vardy,England,ST,33,87,87,Leicester City,€51M,€170K,2151,271
+ K. Adeyemi,Germany,ST,18,69,86,FC Red Bull Salzburg,€3.6M,€6K,1750,267
+ K. Koné,France,CM,19,66,80,Toulouse Football Club,€2M,€1K,1775,258
+ J. Bellingham,England,"CM,LM",17,73,88,Borussia Dortmund,€7M,€5K,1913,257
+ A. Diallo,Ivory Coast,ST,17,64,84,Atalanta,€1.6M,€2K,1510,255
+ E. Haaland,Norway,ST,19,85,92,Borussia Dortmund,€106M,€61K,2042,251
+ G. Reyna,United States,"CAM,LM,CF",17,74,88,Borussia Dortmund,€9.5M,€6K,1816,248
+ J. Gvardiol,Croatia,"CB,LB",18,70,86,Dinamo Zagreb,€3.8M,€500,1789,248
+ C. Tzolis,Greece,"LW,RW,ST",18,69,87,PAOK,€3.5M,€500,1793,246
+ M. Diaby,France,"LM,LW,LW,LM,LW,LM",20,81,88,Bayer 04 Leverkusen,€51M,€60K,1889,245
+ H. Lozano,Mexico,"RW,LW",24,81,84,Napoli,€35M,€71K,2002,244
+ F. Balogun,England,ST,18,62,82,Arsenal,€1.1M,€5K,1488,240
+ I. Bennacer,Algeria,"CDM,CM",22,76,82,Milan,€11M,€27K,2080,227
+ S. Tonali,Italy,"CDM,CM",20,77,89,Milan,€24M,€25K,2086,227
+ L. Netz,Germany,"LB,LM",17,63,85,Hertha BSC,€1.5M,€500,1528,219
+ L. Messi,Argentina,"RW,ST,CF",33,93,93,FC Barcelona,€103.5M,€560K,2231,218
+ J. Doku,Belgium,"RW,LW",18,71,88,Stade Rennais FC,€4.8M,€11K,1697,215
+ Saúl,Spain,"CM,LM,LB",25,83,86,Atlético Madrid,€47.5M,€71K,2205,215
+ X. Simons,Netherlands,CM,17,65,85,Paris Saint-Germain,€1.9M,€2K,1656,215
+ A. Duncan,Ghana,CM,27,74,75,Fiorentina,€4.8M,€40K,2004,214
+ E. Tapsoba,Burkina Faso,CB,21,79,88,Bayer 04 Leverkusen,€37M,€42K,1855,214
+ Rafael Leão,Portugal,"ST,LM",21,74,83,Milan,€9.5M,€26K,1804,214
+ Bruno Fernandes,Portugal,"CAM,CM",25,87,90,Manchester United,€105.5M,€195K,2325,211
+ M. Bamba,Ivory Coast,RW,18,61,81,Roma,€900K,€3K,1480,211
+ Gabriel Martinelli,Brazil,"LW,LM,ST",19,74,85,Arsenal,€9M,€38K,1840,210
+ M. Zaccagni,Italy,"CF,ST",25,77,82,Hellas Verona,€15.5M,€29K,1987,207
+ A. Saint-Maximin,France,"LM,LW,ST",23,80,86,Newcastle United,€33.5M,€43K,1868,206
+ N. Pépé,Ivory Coast,"RM,RW",25,80,83,Arsenal,€28M,€84K,1988,205
+ A. Davies,Canada,"LB,LM,RM",19,81,89,FC Bayern München,€53M,€40K,2111,203
+ C. Hudson-Odoi,England,"RW,LW",19,75,86,Chelsea,€12M,€44K,1816,202
+ Pau Torres,Spain,CB,23,80,86,Villarreal CF,€30M,€31K,1832,202
+ Emerson,Brazil,"RB,RM,RWB",21,78,88,Real Betis,€30M,€17K,2011,201
+ D. Upamecano,France,CB,21,80,90,RB Leipzig,€44.5M,€38K,1807,197
+ K. Tierney,Scotland,"LWB,CB,N/A,LWB,LB,CB,LWB",23,78,86,Arsenal,€30M,€59K,2039,196
+ Ansu Fati,Spain,LW,17,76,90,FC Barcelona,€17M,€24K,1817,195
+ D. Szoboszlai,Hungary,"CAM,LM",19,77,87,FC Red Bull Salzburg,€23M,€16K,1967,192
+ Pedro Gonçalves,Portugal,"CM,RW",22,78,87,Sporting CP,€31.5M,€14K,2008,190
+ A. Urzi,Argentina,"LM,CM,RM",20,73,88,Club Atlético Banfield,€7.5M,€10K,1737,188
+ S. Dest,United States,RB,19,75,86,FC Barcelona,€11.5M,€50K,1964,187
+ R. Baku,Germany,"RB,CM,RM",22,75,83,VfL Wolfsburg,€12M,€30K,1962,186
+ T. Nianzou,France,"CB,CDM",18,71,85,FC Bayern München,€4.1M,€10K,1652,186
+ Casemiro,Brazil,CDM,28,89,89,Real Madrid,€90.5M,€310K,2219,185
+ Riqui Puig,Spain,"CM,CAM",20,75,88,FC Barcelona,€13.5M,€77K,1889,184
+ M. Özil,Germany,"CAM,RW",31,81,81,Arsenal,€21.5M,€95K,1835,179
+ M. Caicedo,Ecuador,"CM,CDM",18,62,77,Independiente del Valle,€925K,€500,1598,176
+ B. White,England,"CB,CM",22,76,87,Brighton & Hove Albion,€15.5M,€40K,1663,175
+ Antony,Brazil,"RW,LW",20,79,88,Ajax,€38.5M,€17K,1931,174
+ João Pedro,Brazil,"ST,LM",18,71,84,Watford,€4.4M,€5K,1645,171
+ M. Rashford,England,"LM,ST",22,85,91,Manchester United,€86.5M,€150K,2151,170
+ L. Bailey,Jamaica,"LM,LW,LW,LM,N/A,RW,LW,LM,RW",22,81,86,Bayer 04 Leverkusen,€39.5M,€70K,1994,169
+ A. Saelemaekers,Belgium,RM,21,76,82,Milan,€12M,€26K,1937,164
+ J. Justin,England,"LB,LWB,RB,LB,N/A,RWB,LWB,LB,RWB",22,75,80,Leicester City,€8M,€49K,1876,164
+ C. Jones,England,"CM,CAM",19,68,86,Liverpool,€3.1M,€16K,1811,162
+ I. Sarr,Senegal,"RM,ST",22,78,87,Watford,€31.5M,€19K,1844,162
+ Adama Traoré,Spain,"RW,RWB",24,79,85,Wolverhampton Wanderers,€27.5M,€80K,1918,161
+ K. Mbappé,France,"ST,LW,RW",21,90,95,Paris Saint-Germain,€185.5M,€160K,2147,160
+ L. Suárez,Uruguay,ST,33,87,87,Atlético Madrid,€51M,€115K,2315,160
+ C. Pulisic,United States,"LW,RW,LM",21,81,87,Chelsea,€41.5M,€83K,1946,157
+ P. Foden,England,"CAM,CM,LW",20,79,88,Manchester City,€38.5M,€86K,1970,155
+ S. Wamangituka,DR Congo,"RM,LM,ST",20,72,83,VfB Stuttgart,€5M,€13K,1842,154
+ Cristiano Ronaldo,Portugal,"ST,LW",35,92,92,Juventus,€63M,€220K,2221,152
+ C. De Ketelaere,Belgium,"LW,ST,CF",19,73,86,Club Brugge KV,€7M,€13K,1923,152
+ F. Pellistri,Uruguay,"RM,RW",18,71,87,Manchester United,€4.8M,€19K,1732,152
+ M. Vandevoordt,Belgium,GK,18,68,86,KRC Genk,€2.7M,€550,911,152
+ A. Isak,Sweden,ST,20,79,86,Real Sociedad,€35M,€28K,1862,150
+ N. Mukiele,France,"RB,CB,RM",22,80,87,RB Leipzig,€40.5M,€46K,1950,146
+ A. Belotti,Italy,ST,26,81,84,Torino,€34M,€61K,1968,144
+ I. Konaté,France,CB,21,78,88,RB Leipzig,€29.5M,€33K,1725,142
+ J. Kimmich,Germany,"CDM,RB",25,88,90,FC Bayern München,€103M,€145K,2274,142
+ Nuno Mendes,Portugal,"LWB,LM",18,74,86,Sporting CP,€9.5M,€3K,1920,142
+ S. Aurier,Ivory Coast,RB,27,81,81,Tottenham Hotspur,€25M,€90K,2096,142
+ T. Kubo,Japan,"RM,CM,CF",19,75,88,Villarreal CF,€13.5M,€59K,1826,142
+ J. David,Canada,"ST,CAM",20,77,88,LOSC Lille,€23.5M,€29K,1824,140
+ Nuno Tavares,Portugal,LB,20,72,85,SL Benfica,€5.5M,€6K,1888,140
+ W. McKennie,United States,"CM,CDM,CB",21,76,85,Juventus,€17M,€20K,2072,140
+ C. Adams,England,ST,23,75,80,Southampton,€8.5M,€44K,1927,139
+ J. Álvarez,Argentina,"RW,RM",20,72,84,River Plate,€5.5M,€10K,1905,139
+ Neymar Jr,Brazil,"LW,CAM",28,91,91,Paris Saint-Germain,€132M,€270K,2175,139
+ J. Koundé,France,CB,21,80,86,Sevilla FC,€31M,€22K,1822,138
+ H. Kane,England,ST,26,89,90,Tottenham Hotspur,€123M,€230K,2204,137
+ C. Lenglet,France,CB,25,84,88,FC Barcelona,€52.5M,€175K,1925,135
+ V. Jensen,Denmark,"CAM,CM",20,65,80,Ajax,€1.7M,€3K,1567,135
+ D. Calabria,Italy,RB,23,77,81,Milan,€14M,€29K,1907,134
+ M. Kudus,Ghana,"CAM,CM",19,77,87,Ajax,€23M,€10K,2015,134
+ D. Zakaria,Switzerland,"CDM,CB",23,83,87,Borussia Mönchengladbach,€47.5M,€45K,2066,133
+ Eric García,Spain,CB,19,73,85,Manchester City,€7M,€36K,1657,133
+ E. Konsa,England,"CB,RB",22,75,84,Aston Villa,€12M,€38K,1784,133
+ H. Aouar,France,"CM,LM",22,82,89,Olympique Lyonnais,€61.5M,€70K,2147,133
+ R. Rojas,Paraguay,CB,24,75,82,River Plate,€10.5M,€13K,1920,133
+ T. Alexander-Arnold,England,RB,21,87,92,Liverpool,€114M,€110K,2216,133
+ S. Kjær,Denmark,CB,31,81,81,Milan,€17.5M,€46K,1850,132
+ A. Velasco,Argentina,LM,17,69,85,Independiente,€3.5M,€1K,1804,131
+ S. Esposito,Italy,ST,17,66,86,SPAL,€2.3M,€500,1703,131
+ Trincão,Portugal,"LW,RM,CAM,N/A,RW,RM",20,78,88,FC Barcelona,€31M,€105K,1911,130
+ F. de Jong,Netherlands,"CM,CDM",23,85,90,FC Barcelona,€81M,€190K,2185,130
+ M. Aarons,England,RB,20,73,83,Norwich City,€6.5M,€7K,1768,130
+ P. Cutrone,Italy,ST,22,74,81,Fiorentina,€8.5M,€56K,1736,130
+ J. Frimpong,Netherlands,"RB,RWB,RM",19,71,84,Celtic,€4.3M,€15K,1856,129
+ L. Stergiou,Switzerland,CB,18,67,86,FC St. Gallen,€2.4M,€1K,1529,129
+ M. Boadu,Netherlands,ST,19,75,86,AZ Alkmaar,€12M,€7K,1807,129
+ Rodrygo,Brazil,RW,19,79,90,Real Madrid,€38M,€90K,1929,129
+ D. Malen,Netherlands,ST,21,78,86,PSV,€32M,€17K,1925,128
+ Pedro Neto,Portugal,"LW,RW",20,76,85,Wolverhampton Wanderers,€16.5M,€55K,1735,128
+ Joelson Fernandes,Portugal,"RW,LW",17,69,87,Sporting CP,€3.5M,€1K,1677,127
+ M. Ødegaard,Norway,"CAM,CM",21,83,89,Real Madrid,€58.5M,€135K,2099,127
+ M. Ihattaren,Netherlands,"CAM,RM,CM",18,77,86,PSV,€22M,€7K,1891,127
+ I. Fernández,Argentina,"CM,CAM",30,81,81,River Plate,€24.5M,€24K,2178,126
+ Gabriel,Brazil,CB,22,79,85,Arsenal,€25.5M,€65K,1693,125
+ T. Lamptey,England,"RWB,RB",19,71,84,Brighton & Hove Albion,€4.3M,€16K,1757,125
+ Marcos Llorente,Spain,"CM,RM,ST",25,83,86,Atlético Madrid,€47.5M,€71K,2214,124
+ B. Gilmour,Scotland,"CM,CAM",19,71,86,Chelsea,€4.4M,€25K,1809,123
+ J. Brandt,Germany,"CAM,CM,CF",24,83,87,Borussia Dortmund,€52M,€68K,2063,122
+ P. Dybala,Argentina,"CF,CAM",26,88,89,Juventus,€109M,€190K,2152,122
+ Sergio Busquets,Spain,"CDM,CM",31,86,86,FC Barcelona,€47.5M,€220K,2008,122
+ B. Williams,England,"LB,LWB",19,75,83,Manchester United,€11.5M,€40K,1904,121
+ X. Schlager,Austria,"CM,CAM,CDM",22,77,83,VfL Wolfsburg,€17M,€37K,2010,121
+ A. Lunin,Ukraine,GK,21,75,87,Real Madrid,€12M,€50K,1120,119
+ A. Vranckx,Belgium,"CM,CDM",17,66,84,KV Mechelen,€2.1M,€600,1806,118
+ Fábio Silva,Portugal,ST,17,69,85,Wolverhampton Wanderers,€3.5M,€7K,1621,118
+ J. Dasilva,England,"CM,CDM",21,72,81,Brentford,€5M,€22K,1910,118
+ B. Kamara,France,"CDM,CB",20,79,85,Olympique de Marseille,€25M,€29K,1902,117
+ B. Arrey-Mbi,Germany,"CB,LB",17,61,85,Bayern München II,€975K,€500,1482,117
+ O. Richards,England,"LB,LWB,LM",21,72,79,Reading,€4.5M,€8K,1757,116
+ A. Bernabei,Argentina,"LB,LW,LM",19,70,83,Club Atlético Lanús,€3.6M,€5K,1917,115
+ O. Kabak,Turkey,CB,20,76,86,FC Schalke 04,€15.5M,€18K,1724,115
+ A. Romagnoli,Italy,CB,25,83,87,Milan,€45.5M,€51K,1782,114
+ Vinícius,Brazil,ST,25,79,84,Tottenham Hotspur,€26M,€18K,1870,112
+ L. Martínez,Argentina,ST,22,84,91,Inter,€86.5M,€130K,2115,112
+ Cucurella,Spain,"LM,LB",21,81,89,Getafe CF,€58M,€28K,2107,112
+ ,Brazil,ST,31,78,78,Spartak Moscow,€9.5M,€2K,1868,111
+ J. Hauge,Norway,LM,20,75,84,Milan,€12.5M,€25K,1849,109
+ Lucas Vázquez,Spain,"RW,RB",29,80,80,Real Madrid,€20.5M,€165K,2106,109
