@@ -7,10 +7,12 @@ class FifaSpider(scrapy.Spider):
     allowed_domains = ['sofifa.com']
     start_urls = ['https://sofifa.com/?offset=0']
     
+    """
     custom_settings = {
     # specifies exported fields and order, especially for csv
     'FEED_EXPORT_FIELDS': ['name','country','position','age','overall_rating','potential','club','value','wage','total_stats','hits'],
     }
+    """
     
     def parse(self, response):
         # select and crawl each player in the table 

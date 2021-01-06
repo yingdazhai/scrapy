@@ -62,7 +62,10 @@ DOWNLOAD_DELAY = 3
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {}
+FILE_NAME = 'players.csv'
+ITEM_PIPELINES = {
+    'fifa.pipelines.FifaItemPipeline': 300,
+}
 
 
 # Enable and configure the AutoThrottle extension (disabled by default)

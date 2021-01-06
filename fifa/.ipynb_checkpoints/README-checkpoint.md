@@ -34,17 +34,19 @@ The extracted data looks like this sample:
 This project contains one basic spider and you can list them using the `list`
 command:
 
+```bash
     $ scrapy list
-    spider-fifa
+      spider-fifa
+```
 
-The basic spider `spider-fifa` crawls player's information in the tabulated player's panel from (http://sofifa.com)[http://sofifa.com] and continues on the following pages.
+The basic spider `spider-fifa` crawls player's information in the tabulated player panel from [http://sofifa.com](http://sofifa.com) and continues on the following pages. This basic spider illustrates how to use scrapy's item pipeline to export scraped data into CSV file. See [pipelines.py](https://github.com/yingdazhai/scrapy.git/tree/master/fifa/fifa/pipelines.py) for details.
 
 ## Running the spiders
 
 You can run a spider using the `scrapy crawl` command, such as:
 
+```bash
     $ scrapy crawl spider-fifa
+```
 
-If you want to save the scraped data to a file, you can pass the `-O` option (Feed Export and replace):
-    
-    $ scrapy crawl spider-fifa -O players.csv
+A CSV file named `players.csv` will be created and populated with scraped player's data, a result of scrapy's item pipeline.

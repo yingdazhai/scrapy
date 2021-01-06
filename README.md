@@ -1,10 +1,10 @@
 ## Web Scraping with Python Scrapy
 
-[Python Scrapy](https://scrapy.org) is the "go-to" end-to-end framework for flexible web data colletion from data scraping and cleaning to saving and preparation, where popular utility packages such as [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) could be easily integrated. 
+[Python Scrapy](https://scrapy.org) is the "go-to" end-to-end framework for flexible web data colletion from data scraping and cleaning to saving and preparation, where popular utility packages such as [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](https://www.selenium.dev) could be easily integrated. 
 
 [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html) provides a comprehensive guide on how to build scrapy web crawlers for data collection with easy-to-follow examples. 
 
-This scrapy project contains 5 example scrapy projects written in Python scrapy, demonstrating how scrapy works for web data collection.
+This scrapy project contains 5 example scrapy projects written in Python scrapy, demonstrating how scrapy works for web data collection, including dealing with multiple requests, scraping text data and images, and utilizing item pipelines.
 
 1. **Scraping multiple quotes**: extract text data of famous quotes - [quotes](https://github.com/yingdazhai/scrapy.git/tree/master/quotes).
 2. **Scraping a bookstore** extract book details and cover images from a dummy online book store - [books](https://github.com/yingdazhai/scrapy.git/tree/master/books) and [bookimage](https://github.com/yingdazhai/scrapy.git/tree/master/bookimage).
