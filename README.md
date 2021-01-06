@@ -6,17 +6,20 @@
 
 This scrapy project contains 5 example scrapy projects written in Python scrapy, demonstrating how scrapy works for web data collection.
 
-1. **Scraping multiple quotes**: extract text data of famous quotes - [quotes].
-2. **Scraping a bookstore** extract book details and cover images from a dummy online book store - [books]() and [bookimage]().
-3. **Scraping soccer players** - extract player's information and photos registered on `sofifa.com` website - [fifa]() and [fifaimage]().
+1. **Scraping multiple quotes**: extract text data of famous quotes - [quotes](https://github.com/yingdazhai/scrapy.git/tree/master/quotes).
+2. **Scraping a bookstore** extract book details and cover images from a dummy online book store - [books](https://github.com/yingdazhai/scrapy.git/tree/master/books) and [bookimage](https://github.com/yingdazhai/scrapy.git/tree/master/bookimage).
+3. **Scraping soccer players** - extract player's information and photos registered on `sofifa.com` website - [fifa](https://github.com/yingdazhai/scrapy.git/tree/master/fifa) and [fifaimage](https://github.com/yingdazhai/scrapy.git/tree/master/fifaimage).
    
 To run these examples, [Scrapy](https://docs.scrapy.org/en/latest/) needs to be installed. Scrapy can be installed either through anaconda or pip.
 
+```bash
 $ conda install -c conda-forge scrapy
-
+```
 or
 
+```bash
 $ pip install Scrapy
+```
 
 For installing on other OS and any other installation queries, please click [here](https://docs.scrapy.org/en/latest/intro/install.html).
 
