@@ -31,7 +31,7 @@ command:
     spider-bookinfo
     crawlspider-bookinfo
 
-First basic spider `spider-books` crawl basic book information on pagination while the second basic spider `spider-bookinfo` crawls on individual book page and extracts more information. The third crawl spider `crawlspider-bookinfo` extracts exactly the same information as in the second spider, with defined crawling rules enabled by `CrawlSpider` type in scrapy and Item pipeline.
+First basic spider `spider-books` crawls basic book information on pagination while the second basic spider `spider-bookinfo` crawls on individual book page and extracts more information. The third crawl spider `crawlspider-bookinfo` extracts exactly the same information as in the second spider, with defined crawling rules enabled by `CrawlSpider` type in scrapy and Item pipeline.
 
 ## Running the spiders
 
